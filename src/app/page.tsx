@@ -32,7 +32,7 @@ export default function Home() {
               rel="noopener noreferrer"
             >
               <div className='flex flex-col text-center'>
-                <h1 className='text-2xl lgtext-4xl text-sky-400/100 font-semibold	'> {sitename} </h1>
+                <h1 className='text-3xl lgtext-5xl text-sky-400/100 font-semibold	'> {sitename} </h1>
                 <p className='text-2 font-medium m-2  text-slate-100'>{sitetagline}</p>
               </div>
             </a>
